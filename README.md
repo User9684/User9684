@@ -3,8 +3,9 @@
 <br><br>
 
 ## Socials
-![Twitter](https://twitter.com/User9684)
-![Discord](https://discordapp.com/users/212795145639165952)
+[Twitter](https://twitter.com/User9684)
+
+[Discord](https://discordapp.com/users/212795145639165952)
 
 ![User9684's GitHub stats](https://github-readme-stats.vercel.app/api?username=User9684&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12)
 <br><br>
