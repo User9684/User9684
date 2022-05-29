@@ -1,6 +1,4 @@
 ### Welcome to my Github profile!
-## About me
-- Favorite Color: ![Pink](https://via.placeholder.com/15/ffccff/000000?text=+)
 ## Socials
 [Twitter](https://twitter.com/User9684)
 <br>
