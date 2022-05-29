@@ -4,7 +4,7 @@
 <br>
 [Discord](https://discordapp.com/users/212795145639165952)
 <br><br>
-##Github Stats
+## Github Stats
 ![](https://komarev.com/ghpvc/?username=User9684&color=ffccff)
 <br><br>
 ![User9684's GitHub stats](https://github-readme-stats.vercel.app/api?username=User9684&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12)
