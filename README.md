@@ -3,7 +3,7 @@
 [Twitter](https://twitter.com/User9684)
 <br>
 [Discord](https://discordapp.com/users/212795145639165952)
-<br><br>
+<br>
 ## Github Stats
 ![](https://komarev.com/ghpvc/?username=User9684&color=ffccff)
 <br><br>
