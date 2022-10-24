@@ -1,8 +1,7 @@
 ### Welcome to my Github profile!<br>
 ## Socials
-[Twitter](https://twitter.com/User9684)
-<br>
-[Discord](https://discordapp.com/users/212795145639165952)
+[<image src="./twitter.png" alt=Twitter width=64/>](https://twitter.com/User9684)
+[<image src="./discord.png" alt=Discord width=64/>](https://discordapp.com/users/212795145639165952)
 <br>
 ## Github Stats
 ![](https://komarev.com/ghpvc/?username=User9684&color=ffccff)
