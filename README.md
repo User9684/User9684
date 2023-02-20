@@ -4,7 +4,7 @@
 [<image src="./discord.png" alt=Discord width=64/>](https://discordapp.com/users/212795145639165952)
 <br>
 ## Reporting Stats
-[![AbuseIPDB](https://www.abuseipdb.com/contributor/104980.svg)](https://www.abuseipdb.com/user/104980)
+[![AbuseIPDB](https://www.abuseipdb.com/contributor/104980.svg =200x50)](https://www.abuseipdb.com/user/104980)
 <br>
 ![](https://img.dangercord.com/212795145639165952)
 <br><br>
