@@ -3,11 +3,6 @@
 [<image src="./twitter.png" alt=Twitter width=64/>](https://twitter.com/User9684)
 [<image src="./discord.png" alt=Discord width=64/>](https://discordapp.com/users/212795145639165952)
 <br>
-## Reporting Stats
-[![AbuseIPDB](https://www.abuseipdb.com/contributor/104980.svg#abuseipdbb)](https://www.abuseipdb.com/user/104980)
-<br>
-![](https://img.dangercord.com/212795145639165952)
-<br><br>
 ## Github Stats
 ![](https://komarev.com/ghpvc/?username=User9684&color=ffccff)
 <br><br>
